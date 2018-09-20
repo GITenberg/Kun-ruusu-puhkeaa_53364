@@ -1,11 +1,14 @@
 _repo: Kun-ruusu-puhkeaa_53364
-_version: 0.1.0
+_version: 0.2.0
 alternative_title: Rose in bloom. Finnish
 contributor:
   translator:
     agent_name: Wiherheimo, Aili
     gutenberg_agent_id: '47337'
     url: http://www.gutenberg.org/2009/agents/47337
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Alcott, Louisa May
@@ -19,6 +22,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/102
     wikipedia: http://en.wikipedia.org/wiki/Louisa_May_Alcott
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/53364#Kun-ruusu-puhkeaa
 gutenberg_bookshelf: Romantic Fiction
 gutenberg_issued: '2016-10-25'
 gutenberg_type: Text
