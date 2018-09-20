@@ -1,0 +1,39 @@
+_repo: Kun-ruusu-puhkeaa_53364
+_version: 0.0.1
+alternative_title: Rose in bloom. Finnish
+contributor:
+  translator:
+    agent_name: Wiherheimo, Aili
+    gutenberg_agent_id: '47337'
+    url: http://www.gutenberg.org/2009/agents/47337
+creator:
+  author:
+    agent_name: Alcott, Louisa May
+    aliases:
+    - Alcott, L. M. (Louisa May)
+    - Alcott, Louisa M. (Louisa May)
+    - Barnard, A. M.
+    birthdate: 1832
+    deathdate: 1888
+    gutenberg_agent_id: '102'
+    url: http://www.gutenberg.org/2009/agents/102
+    wikipedia: http://en.wikipedia.org/wiki/Louisa_May_Alcott
+description: ''
+gutenberg_bookshelf: Romantic Fiction
+gutenberg_issued: '2016-10-25'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '53364'
+language: fi
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Families -- Juvenile fiction'
+- !lcsh 'Young women -- Juvenile fiction'
+- !lcsh 'Cousins -- Juvenile fiction'
+- !lcsh 'New England -- Juvenile fiction'
+- !lcc 'PZ'
+- GITenberg
+title: Kun ruusu puhkeaa
+url: http://www.gutenberg.org/ebooks/53364
